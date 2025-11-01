@@ -1,0 +1,19 @@
+version: "2"
+
+linters:
+  default: "standard"
+  enable:
+    - lll
+    - gocyclo
+    - goconst
+    - nestif
+    - tagliatelle
+  settings:
+    gocyclo:
+      min-complexity: 10
+formatters:
+  enable:
+    - gofumpt
+run:
+  timeout: 5m
+  modules-download-mode: readonly
