@@ -1,0 +1,26 @@
+{
+  "files.insertFinalNewline": true,
+  "go.toolsManagement.checkForUpdates": "proxy",
+  "[go]": {
+    "editor.formatOnSave": true,
+  },
+  // golangci-lint
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": [
+    "--path-mode=abs",
+    "--fast-only"
+  ],
+  // If the linting is too heavy, you might want to use "file"
+  "go.lintOnSave": "workspace",
+  "go.formatTool": "custom",
+  "go.alternateTools": {
+    "go": "~/.local/share/aquaproj-aqua/bin/go",
+    "gopls": "~/.local/share/aquaproj-aqua/bin/gopls",
+    "dlv": "~/.local/share/aquaproj-aqua/bin/dlv",
+    "customFormatter": "~/.local/share/aquaproj-aqua/bin/golangci-lint"
+  },
+  "go.formatFlags": [
+    "fmt",
+    "--stdin"
+  ]
+}

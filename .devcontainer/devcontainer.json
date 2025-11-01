@@ -11,29 +11,7 @@
         "redhat.vscode-yaml",
         "golang.go",
         "DavidAnson.vscode-markdownlint"
-      ],
-      "settings": {
-        "files.insertFinalNewline": true,
-        // Automate gopls installation
-        "go.toolsManagement.autoUpdate": true,
-        "go.toolsManagement.checkForUpdates": "proxy",
-        // golangci-lint
-        "go.lintTool": "golangci-lint",
-        "go.lintFlags": [
-          "--path-mode=abs",
-          "--fast-only"
-        ],
-        // If the linting is too heavy, you might want to use "file"
-        "go.lintOnSave": "package",
-        "go.formatTool": "custom",
-        "go.alternateTools": {
-          "customFormatter": "golangci-lint"
-        },
-        "go.formatFlags": [
-          "fmt",
-          "--stdin"
-        ]
-      }
+      ]
     }
   },
   "features": {
