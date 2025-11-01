@@ -10,7 +10,8 @@
         "ms-azuretools.vscode-containers",
         "redhat.vscode-yaml",
         "golang.go",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker"
       ]
     }
   },

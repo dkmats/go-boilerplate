@@ -1,0 +1,13 @@
+{
+  "ignoreWords": [
+    "devcontainers",
+    "aquaproj",
+    "moby",
+    "DavidAnson",
+    "golangci"
+  ],
+  "ignorePaths": [
+    ".golangci.yaml",
+    ".aqua/*"
+  ]
+}
