@@ -8,6 +8,7 @@
   ],
   "ignorePaths": [
     ".golangci.yaml",
-    ".aqua/*"
+    ".aqua/*",
+    ".gitignore"
   ]
 }
