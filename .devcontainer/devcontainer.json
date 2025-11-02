@@ -15,6 +15,11 @@
       ]
     }
   },
+  "mounts": [
+    "type=volume,source=${localWorkspaceFolderBasename}-aqua,target=/home/vscode/.local/share/aquaproj-aqua",
+    "type=volume,source=${localWorkspaceFolderBasename}-go-cache,target=/home/vscode/.cache/go-build",
+    "type=volume,source=${localWorkspaceFolderBasename}-go-mod-cache,target=/home/vscode/go/pkg/mod"
+  ],
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1.6.5": {
       "version": "latest",
@@ -31,6 +36,6 @@
     // Docker settings
     "LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
   },
-  // Lazy install packages managed by aqua
-  "postStartCommand": "aqua i -l"
+  // Project setup script
+  "postCreateCommand": "chmod +x .devcontainer/devcontainer-init.sh && .devcontainer/devcontainer-init.sh"
 }
