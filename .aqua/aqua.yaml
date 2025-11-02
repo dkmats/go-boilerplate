@@ -6,7 +6,7 @@ checksum:
   enabled: true
   require_checksum: true
   supported_envs:
-    - all
+    - linux
 registries:
   - type: standard
     ref: v4.432.0 # renovate: depName=aquaproj/aqua-registry
