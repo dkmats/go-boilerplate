@@ -16,6 +16,6 @@ packages:
   - name: golang/go@go1.25.4
   - name: golang.org/x/tools/gopls@v0.20.0
   - name: go-delve/delve@v1.25.2
-  - name: golangci/golangci-lint@v2.6.1
+  - name: golangci/golangci-lint@v2.6.2
   - name: goreleaser/goreleaser@v2.12.7
   - name: google/go-licenses@v2.0.1
