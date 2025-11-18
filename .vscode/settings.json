@@ -20,7 +20,8 @@
     "customFormatter": "~/.local/share/aquaproj-aqua/bin/golangci-lint"
   },
   "go.formatFlags": [
-    "fmt",
-    "--stdin"
+    "fmt"
+    // You may want to uncomment the following line when the linting is too heavy.
+    // "--stdin"
   ]
 }
