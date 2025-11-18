@@ -7,8 +7,9 @@
   // golangci-lint
   "go.lintTool": "golangci-lint",
   "go.lintFlags": [
-    "--path-mode=abs",
-    "--fast-only"
+    "--path-mode=abs"
+    // You may want to uncomment the following line when the linting is too heavy.
+    // "--fast-only"
   ],
   // If the linting is too heavy, you might want to use "file"
   "go.lintOnSave": "workspace",
@@ -20,8 +21,7 @@
     "customFormatter": "~/.local/share/aquaproj-aqua/bin/golangci-lint"
   },
   "go.formatFlags": [
-    "fmt"
-    // You may want to uncomment the following line when the linting is too heavy.
-    // "--stdin"
+    "fmt",
+    "--stdin"
   ]
 }
