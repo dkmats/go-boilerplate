@@ -31,13 +31,13 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/mikefarah/yq/v4.49.1/yq_linux_amd64",
-      "checksum": "897045E4A42933951EA8E143C44EA3F7F8005AA25105C4FBD796C3D61EE163EC",
+      "id": "github_release/github.com/mikefarah/yq/v4.49.2/yq_linux_amd64",
+      "checksum": "BE2C0DDCF426B6A231648610EC5D1666AE50E9F6473E82F6486F9F4CB6E3E2F7",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/mikefarah/yq/v4.49.1/yq_linux_arm64",
-      "checksum": "48E09DE3F65CB5DE1CDF7AE9BA78676F147BE376DB2727BE5DCA8213AA898012",
+      "id": "github_release/github.com/mikefarah/yq/v4.49.2/yq_linux_arm64",
+      "checksum": "783AA3C3BEEDCF2BF4AAF6262ECA38B92A16D3EA31E2218CA80BA8EC7226B248",
       "algorithm": "sha256"
     },
     {
