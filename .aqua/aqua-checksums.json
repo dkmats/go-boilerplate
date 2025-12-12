@@ -1,13 +1,13 @@
 {
   "checksums": [
     {
-      "id": "github_release/github.com/golangci/golangci-lint/v2.6.2/golangci-lint-2.6.2-linux-amd64.tar.gz",
-      "checksum": "499C864B5FD9841C4FA8E80B5E2BE30F73F085CF186F1B111FF81A2783B7DE12",
+      "id": "github_release/github.com/golangci/golangci-lint/v2.7.2/golangci-lint-2.7.2-linux-amd64.tar.gz",
+      "checksum": "CE46A1F1D890E7B667259F70BB236297F5CF8791A9B6B98B41B283D93B5B6E88",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/golangci/golangci-lint/v2.6.2/golangci-lint-2.6.2-linux-arm64.tar.gz",
-      "checksum": "A2F9C6FE1800D0A6BA2A94ADA95DEBE2C498A636FFC12308EE03022F97BE1F33",
+      "id": "github_release/github.com/golangci/golangci-lint/v2.7.2/golangci-lint-2.7.2-linux-arm64.tar.gz",
+      "checksum": "7028E810837722683DAB679FB121336CFA303FECFF39DFE248E3E36BC18D941B",
       "algorithm": "sha256"
     },
     {
@@ -51,8 +51,8 @@
       "algorithm": "sha256"
     },
     {
-      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.442.1/registry.yaml",
-      "checksum": "EF24F10349B8BBF412178BECB847F2CED62E8B2D41BA088FCEB3953533739B63B02FCF165514C0F15366334EB3FF792FE316611CAA183F5EB580BE5515255197",
+      "id": "registries/github_content/github.com/aquaproj/aqua-registry/v4.445.0/registry.yaml",
+      "checksum": "AEC9F10EF0D8DD8CB3A3DC7AAC1655FF182432BDCB18811469B59C18E7316CC9BE6EB99DC850AA4E761B4570111DFD4439C46D24436A0ACF458EBD2ED6C058AE",
       "algorithm": "sha512"
     }
   ]
