@@ -1,6 +1,16 @@
 {
   "checksums": [
     {
+      "id": "github_release/github.com/golangci/golangci-lint/v2.6.2/golangci-lint-2.6.2-linux-amd64.tar.gz",
+      "checksum": "499C864B5FD9841C4FA8E80B5E2BE30F73F085CF186F1B111FF81A2783B7DE12",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/golangci/golangci-lint/v2.6.2/golangci-lint-2.6.2-linux-arm64.tar.gz",
+      "checksum": "A2F9C6FE1800D0A6BA2A94ADA95DEBE2C498A636FFC12308EE03022F97BE1F33",
+      "algorithm": "sha256"
+    },
+    {
       "id": "github_release/github.com/golangci/golangci-lint/v2.7.2/golangci-lint-2.7.2-linux-amd64.tar.gz",
       "checksum": "CE46A1F1D890E7B667259F70BB236297F5CF8791A9B6B98B41B283D93B5B6E88",
       "algorithm": "sha256"
@@ -18,6 +28,16 @@
     {
       "id": "github_release/github.com/goreleaser/goreleaser/v2.13.0/goreleaser_Linux_x86_64.tar.gz",
       "checksum": "55FA78DCFD079B82ABEF068FE55A8D5610248923EA313AF1B1BEF768AA13FEB3",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/goreleaser/goreleaser/v2.13.1/goreleaser_Linux_arm64.tar.gz",
+      "checksum": "97051DE56BDCC4A76B2AA552FA85B633EBFFEA47B44BED85CD3580F12FC82651",
+      "algorithm": "sha256"
+    },
+    {
+      "id": "github_release/github.com/goreleaser/goreleaser/v2.13.1/goreleaser_Linux_x86_64.tar.gz",
+      "checksum": "04764528D7344BC5EFAE80EF62467480578A37DB0BB98EA2CEE185E04AEB1A7D",
       "algorithm": "sha256"
     },
     {
