@@ -21,4 +21,4 @@ jobs:
       - name: Fix aqua-checksums.json
         run: aqua upc -prune
       - name: Run autofix.ci
-        uses: autofix-ci/action@v1.3.2
+        uses: autofix-ci/action@v1.3.3
