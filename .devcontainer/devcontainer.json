@@ -21,7 +21,7 @@
     "type=volume,source=${localWorkspaceFolderBasename}-go-mod-cache,target=/home/vscode/go/pkg/mod"
   ],
   "features": {
-    "ghcr.io/devcontainers/features/docker-outside-of-docker:1.8.0": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1.9.0": {
       "version": "latest",
       "enableNonRootDocker": "true",
       "moby": "true"
