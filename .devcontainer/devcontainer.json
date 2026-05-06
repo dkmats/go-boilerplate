@@ -27,7 +27,7 @@
       "moby": "true"
     },
     "ghcr.io/aquaproj/devcontainer-features/aqua-installer:0.1.6": {
-      "aqua_version": "v2.56.7"
+      "aqua_version": "v2.58.0"
     }
   },
   "remoteEnv": {
