@@ -11,7 +11,7 @@ registries:
   - type: standard
     ref: v4.515.0 # renovate: depName=aquaproj/aqua-registry
 packages:
-  - name: jqlang/jq@jq-1.8.1
+  - name: jqlang/jq@jq-1.8.2
   - name: mikefarah/yq@v4.52.4
   - name: golang/go@go1.26.2
   - name: golang.org/x/tools/gopls@v0.21.1
