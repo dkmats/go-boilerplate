@@ -21,13 +21,13 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/goreleaser/goreleaser/v2.15.4/goreleaser_Linux_arm64.tar.gz",
-      "checksum": "DE01CA1497571E9B348413CD2E7F74BE49B8D57696AE386F7EEDD06176544A88",
+      "id": "github_release/github.com/goreleaser/goreleaser/v2.18.0/goreleaser_Linux_arm64.tar.gz",
+      "checksum": "1975566C9668E6F4247E6BB57656F21DA13635C24D948EF47B1232E5C864A35B",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/goreleaser/goreleaser/v2.15.4/goreleaser_Linux_x86_64.tar.gz",
-      "checksum": "AAE00C71A4A6D55E08CCE9273A1516BDCE33C1E07CFFB7E502FA6FEC4377DEDE",
+      "id": "github_release/github.com/goreleaser/goreleaser/v2.18.0/goreleaser_Linux_x86_64.tar.gz",
+      "checksum": "41CDF49B653784B03A08013DD99E382CD5D463049E915C2D818EAED182AE6197",
       "algorithm": "sha256"
     },
     {
