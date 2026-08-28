@@ -51,13 +51,13 @@
       "algorithm": "sha256"
     },
     {
-      "id": "http/golang.org/dl/go1.26.2.linux-amd64.tar.gz",
-      "checksum": "990E6B4BBBA816DC3EE129EAEAF4B42F17C2800B88A2166C265AC1A200262282",
+      "id": "http/golang.org/dl/go1.26.3.linux-amd64.tar.gz",
+      "checksum": "2B2CFC7148493DA5E73981BFFBF3353AF381D5F93E789C82C79AFF64962EB556",
       "algorithm": "sha256"
     },
     {
-      "id": "http/golang.org/dl/go1.26.2.linux-arm64.tar.gz",
-      "checksum": "C958A1FE1B361391DB163A485E21F5F228142D6F8B584F6BEF89B26F66DC5B23",
+      "id": "http/golang.org/dl/go1.26.3.linux-arm64.tar.gz",
+      "checksum": "9D89A3EA57D141C2B22D70083F2C8459BA3890F2D9E818E7E933B75614936565",
       "algorithm": "sha256"
     },
     {
