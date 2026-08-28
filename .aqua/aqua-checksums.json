@@ -31,13 +31,13 @@
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/jqlang/jq/jq-1.8.1/jq-linux-amd64",
-      "checksum": "020468DE7539CE70EF1BCEAF7CDE2E8C4F2CA6C3AFB84642AABC5C97D9FC2A0D",
+      "id": "github_release/github.com/jqlang/jq/jq-1.8.2/jq-linux-amd64",
+      "checksum": "B1C22172DD303F3BE49E935AA56AA48A8B7A46E0BC838B4997D3BB451495870F",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/jqlang/jq/jq-1.8.1/jq-linux-arm64",
-      "checksum": "6BC62F25981328EDD3CFCFE6FE51B073F2D7E7710D7EF7FCDAC28D4E384FC3D4",
+      "id": "github_release/github.com/jqlang/jq/jq-1.8.2/jq-linux-arm64",
+      "checksum": "8B85C817833814DDCA00A144C33705546355AFCCF0CF39B188F3CDB48B852309",
       "algorithm": "sha256"
     },
     {
