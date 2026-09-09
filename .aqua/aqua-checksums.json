@@ -1,13 +1,13 @@
 {
   "checksums": [
     {
-      "id": "github_release/github.com/go-delve/delve/v1.26.3/dlv_1.26.3_linux_amd64.tar.gz",
-      "checksum": "CDD4D6B2A638D8F26468D82A76B766DF594641490BEA566629305D90FBCCC06E",
+      "id": "github_release/github.com/go-delve/delve/v1.27.2/dlv_1.27.2_linux_amd64.tar.gz",
+      "checksum": "30783EB68DC1598D965491CC97762270CD63CE13F09D0CAC22FAA7E3EAFC1B9C",
       "algorithm": "sha256"
     },
     {
-      "id": "github_release/github.com/go-delve/delve/v1.26.3/dlv_1.26.3_linux_arm64.tar.gz",
-      "checksum": "5B03FD74895D676C4435BEC1AADE0863BE1489A4BE1BB5C9269C6EF389BF5D2D",
+      "id": "github_release/github.com/go-delve/delve/v1.27.2/dlv_1.27.2_linux_arm64.tar.gz",
+      "checksum": "B2969E00711F905D189784654E485EA5BC6C2EAA8C5D3EFFCB646487F4E0BB2F",
       "algorithm": "sha256"
     },
     {
